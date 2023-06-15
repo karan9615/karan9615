@@ -1,4 +1,10 @@
-<h1 align="center">Hello ,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Karan Gupta </h1>
+<h3 align="center">
+  Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<h1 align="center"> Hey, I'm Karan Gupta </h1>
+<h3 align="center">A passionate Web developer from India</h3>
+
 <p align="center"><img src="https://media.istockphoto.com/photos/close-up-programmer-man-hand-typing-on-keyboard-laptop-for-register-picture-id1132415711?k=20&m=1132415711&s=612x612&w=0&h=0LNIFhWhusM7CWb7lWf95UI7ldS9g3dV4abUwAKG5cs=">
   </p>
 
