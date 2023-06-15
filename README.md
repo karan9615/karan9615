@@ -5,7 +5,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF64DA&center=true&width=1200&height=70&lines=+Hey%2C+I'm+Karan+Gupta+;A+Passionate+Web+Developer" alt="Typing SVG" /></a>
 
-<br>
 <h2> 
  👇 About Me
 <img align="right" alt="Github"  src="https://qph.fs.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d" width="300" height="200" />
