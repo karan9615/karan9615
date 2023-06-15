@@ -18,24 +18,11 @@ I am <strong>C++ Programmer</strong> and a <strong>Mern Stack Developer</strong>
   <br><br>
  
     
-  <p align="center">
+<!--   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=karan9615" alt="Karan kumar Gupta" /> 
-  </p>          
+  </p>           -->
  
 </p>
-
-<!-- <h2 align="center"> 👨‍💻 Technology Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/heroku%20-%2343853D.svg?&style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/php%20-%2300D9FF.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C++%20-%2343873D.svg?&style=for-the-badge&logo=C++&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C%20-%2343893D.svg?&style=for-the-badge&logo=C&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p> -->
 
 ## 🛠️ My favorite tools
 
@@ -48,6 +35,9 @@ I am <strong>C++ Programmer</strong> and a <strong>Mern Stack Developer</strong>
     <a href="https://github.com/search?q=user%3Akaran9615+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Akaran9615+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Akaran9615+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Akaran9615+language%3ApHp"><img alt="pHp" src="https://img.shields.io/badge/php-FE7A16.svg?logo=php&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Akaran9615+language%3ACPP"><img alt="C++" src="https://img.shields.io/badge/c++-8034A9.svg?logo=c++&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Akaran9615+language%3AC"><img alt="C" src="https://img.shields.io/badge/c-007ACC.svg?logo=c&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -55,6 +45,7 @@ I am <strong>C++ Programmer</strong> and a <strong>Mern Stack Developer</strong>
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+   <a href="#"><img alt="React.js" src="https://img.shields.io/badge/React.js-0000CC.svg?logo=react&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
 </p>
 
