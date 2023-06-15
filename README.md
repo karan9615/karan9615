@@ -8,7 +8,7 @@
 <br>
 <h2> 
  👇 About Me
-<img align="right" alt="Github"  src="https://qph.fs.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d" width="400" height="300" />
+<img align="right" alt="Github"  src="https://qph.fs.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d" width="300" height="200" />
 </h2>
 
   <p>  <samp>
