@@ -8,18 +8,19 @@
 <br>
 <h2> 
  👇 About Me
-<img width="30%" align="right" alt="Github" src="https://cdn.pixabay.com/photo/2017/06/10/07/18/list-2389219_1280.png" />
+<img align="right" alt="Github"  src="https://qph.fs.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d" width="400" height="300" />
 </h2>
 
   <p>  <samp>
 I am at Maharaja Agrasen Institute of Technology currently undertaking my Bachelors in Computer Science and Engineering. 
 I am <strong>C++ Programmer</strong> and a <strong>Mern Stack Developer</strong>
-  </samp></p>
-  </p>
-
-<br><br>
+  </samp><br><br>
+:zap: Top Languages<br>
   
-  <br><br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karan9615&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   </p>
+  
+  <br>
  
     
 <!--   <p align="center">
@@ -89,11 +90,6 @@ I am <strong>C++ Programmer</strong> and a <strong>Mern Stack Developer</strong>
 
 
 <br/>
- 
-  <img align="right" alt="GIF" src="https://qph.fs.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d" width="300" height="200" />
-  <summary>:zap: Top Languages </summary>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karan9615&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    <h2 align="center">📫 Reach to me on</h2>
      
  <p align="center">
