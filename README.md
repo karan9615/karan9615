@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF64DA&center=true&width=1200&height=70&lines=+Hey%2C+I'm+Karan+Gupta+;A+passionate+Web+developer+from+India" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF64DA&center=true&width=1200&height=70&lines=+Hey%2C+I'm+Karan+Gupta+;A+Passionate+Web+Developer" alt="Typing SVG" /></a>
 
 <br>
 <h2> 
@@ -88,11 +88,10 @@ I am <strong>C++ Programmer</strong> and a <strong>Mern Stack Developer</strong>
 </p>
 
 
-
 <br/>
-   <h2 align="center">📫 Reach to me on</h2>
+   <h2 align="left">📫 Reach to me on</h2>
      
- <p align="center">
-   <a target="_blank"href="https://www.linkedin.com/in/karan-kumar-gupta-7441321b2"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/KaranKu77758634?s=08"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <p align="left">
+ <a target="_blank" href="https://www.linkedin.com/in/karan-kumar-gupta-7441321b2"><img alt="linkedin" src="https://img.shields.io/badge/Linkedin-0077b5.svg?logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a target="_blank" href="https://twitter.com/KaranKu77758634?s=08"><img alt="twitter" src="https://img.shields.io/badge/Twitter-00acee.svg?logo=twitter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
