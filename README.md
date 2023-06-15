@@ -3,17 +3,21 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=31E9F7&center=true&width=1200&height=70&lines=+Hey%2C+I'm+Karan+Gupta+;A+passionate+Web+developer+from+India" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF64DA&center=true&width=1200&height=70&lines=+Hey%2C+I'm+Karan+Gupta+;A+passionate+Web+developer+from+India" alt="Typing SVG" /></a>
 
-<p align="center"><img src="https://media.istockphoto.com/photos/close-up-programmer-man-hand-typing-on-keyboard-laptop-for-register-picture-id1132415711?k=20&m=1132415711&s=612x612&w=0&h=0LNIFhWhusM7CWb7lWf95UI7ldS9g3dV4abUwAKG5cs=">
+<br>
+<h2> 
+ 👇 About Me
+<img width="30%" align="right" alt="Github" src="https://cdn.pixabay.com/photo/2017/06/10/07/18/list-2389219_1280.png" />
+</h2>
+
+  <p>  <samp>
+I am at Maharaja Agrasen Institute of Technology currently undertaking my Bachelors in Computer Science and Engineering. 
+I am <strong>C++ Programmer</strong> and a <strong>Mern Stack Developer</strong>
+  </samp></p>
   </p>
 
-<h2 align="center"> 👇 Who am I?</h2>
-<p align="center">
-  <samp>
-I am a Middler at Maharaja Agrasen Institute of Technology currently undertaking my Bachelors in Computer Science and Engineering. 
-I am <strong>C++ Programmer</strong> and a <strong>Mern Stack Developer</strong>
-  </samp><br><br>
+<br><br>
   
   <br><br>
  
@@ -68,10 +72,21 @@ I am <strong>C++ Programmer</strong> and a <strong>Mern Stack Developer</strong>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<h2 align="center">📊 Github Statistics </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=karan9615&layout=compact&hide=html&theme=jolly" alt="Karan Kumar Gupta" />&nbsp;&nbsp;&nbsp;&nbsp;
+<br />
+
+<h2 align="left">📊 Github Statistics </h2>
+<p align="left">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=karan9615&layout=compact&hide=html&theme=jolly" alt="Karan Kumar Gupta" />
+
+<a width="80%" href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karan9615&layout=compact&hide=html&theme=jolly" alt="karan9615's github stats" /></a>
+  
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="karan9615's streak" src="https://streak-stats.demolab.com/?user=karan9615&layout=compact&hide=html&theme=jolly"/>
+  </a>
+  
 </p>
+
+
 
 <br/>
  
